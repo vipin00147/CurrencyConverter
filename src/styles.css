@@ -1,1 +1,4 @@
-/* You can add global styles to this file, and also import other style files */
+body{
+    background-image: url(https://shivalearning.in/wp-content/uploads/2018/05/Background-Color-For-Page-Ideal-Background-Colors-For-Web-Pages.jpg);
+    background-size: cover;
+}
